@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Abhinandan Mallick<br>I’m a developer passionate about solving problems and exploring innovative solutions.<br>I enjoy gaming and experimenting with game creation, constantly seeking new ways to push the boundaries of technology.<br>Driven by creativity, I’m always looking to build something unique.
+Hi, I'm Abhinandan Mallick<br>I’m a developer passionate about solving problems and exploring innovative solutions.<br>I enjoy gaming and hiking, constantly seeking new ways to push the boundaries of technology.<br>Driven by creativity, I’m always looking to build something unique.
 
 
 ## 🌐 Socials:
